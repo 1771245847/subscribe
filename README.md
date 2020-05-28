@@ -1,5 +1,3 @@
-# ssrdy/subscribe/
-
 祝大家好运！
 
 SSR报表列表生成器
