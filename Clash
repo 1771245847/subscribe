@@ -26,8 +26,8 @@ proxies:
   - {name: 🇬🇧 英国 4, server: uk-gla.wbnet.cf, port: 31070, type: ss, cipher: aes-256-gcm, password: 3MZ6UwCpMYHKfjVZA8z5VBRa}
   - {name: 🇸🇬 新加坡, server: 37.120.151.14, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: 🇸🇬 新加坡 2, server: sg-sng.wbnet.cf, port: 31070, type: ss, cipher: aes-256-gcm, password: 3MZ6UwCpMYHKfjVZA8z5VBRa}
-  - {name: 🇭🇰 香港微软云2(欢迎关注Youtube破解资源君), server: 120.232.154.249, port: 102, type: ss, cipher: aes-128-gcm, password: Hn7tRsw}
-  - {name: 🇭🇰 香港微软云1(欢迎关注Youtube破解资源君), server: 120.232.154.249, port: 101, type: ss, cipher: aes-128-gcm, password: AAO09Yh6}
+  - {name: 🇭🇰 香港微软云2, server: 120.232.154.249, port: 102, type: ss, cipher: aes-128-gcm, password: Hn7tRsw}
+  - {name: 🇭🇰 香港微软云1, server: 120.232.154.249, port: 101, type: ss, cipher: aes-128-gcm, password: AAO09Yh6}
   - {name: 🇹🇭 泰国, server: th-bkk.wbnet.cf, port: 31070, type: ss, cipher: aes-256-gcm, password: 3MZ6UwCpMYHKfjVZA8z5VBRa}
   - {name: 🇨🇳 台湾, server: 2.58.242.43, port: 38033, type: ss, cipher: aes-256-gcm, password: xpQwyV4W5FdA6NMANJJx73US}
   - {name: 🇨🇳 台湾 2, server: tw-tai.wbnet.cf, port: 31070, type: ss, cipher: aes-256-gcm, password: 3MZ6UwCpMYHKfjVZA8z5VBRa}
@@ -63,8 +63,8 @@ proxy-groups:
       - 🇬🇧 英国 4
       - 🇸🇬 新加坡
       - 🇸🇬 新加坡 2
-      - 🇭🇰 香港微软云2(欢迎关注Youtube破解资源君)
-      - 🇭🇰 香港微软云1(欢迎关注Youtube破解资源君)
+      - 🇭🇰 香港微软云2
+      - 🇭🇰 香港微软云1
       - 🇹🇭 泰国
       - 🇨🇳 台湾
       - 🇨🇳 台湾 2
@@ -99,8 +99,8 @@ proxy-groups:
       - 🇬🇧 英国 4
       - 🇸🇬 新加坡
       - 🇸🇬 新加坡 2
-      - 🇭🇰 香港微软云2(欢迎关注Youtube破解资源君)
-      - 🇭🇰 香港微软云1(欢迎关注Youtube破解资源君)
+      - 🇭🇰 香港微软云2
+      - 🇭🇰 香港微软云1
       - 🇹🇭 泰国
       - 🇨🇳 台湾
       - 🇨🇳 台湾 2
@@ -136,8 +136,8 @@ proxy-groups:
       - 🇬🇧 英国 4
       - 🇸🇬 新加坡
       - 🇸🇬 新加坡 2
-      - 🇭🇰 香港微软云2(欢迎关注Youtube破解资源君)
-      - 🇭🇰 香港微软云1(欢迎关注Youtube破解资源君)
+      - 🇭🇰 香港微软云2
+      - 🇭🇰 香港微软云1
       - 🇹🇭 泰国
       - 🇨🇳 台湾
       - 🇨🇳 台湾 2
@@ -172,8 +172,8 @@ proxy-groups:
       - 🇬🇧 英国 4
       - 🇸🇬 新加坡
       - 🇸🇬 新加坡 2
-      - 🇭🇰 香港微软云2(欢迎关注Youtube破解资源君)
-      - 🇭🇰 香港微软云1(欢迎关注Youtube破解资源君)
+      - 🇭🇰 香港微软云2
+      - 🇭🇰 香港微软云1
       - 🇹🇭 泰国
       - 🇨🇳 台湾
       - 🇨🇳 台湾 2
@@ -208,8 +208,8 @@ proxy-groups:
       - 🇬🇧 英国 4
       - 🇸🇬 新加坡
       - 🇸🇬 新加坡 2
-      - 🇭🇰 香港微软云2(欢迎关注Youtube破解资源君)
-      - 🇭🇰 香港微软云1(欢迎关注Youtube破解资源君)
+      - 🇭🇰 香港微软云2
+      - 🇭🇰 香港微软云1
       - 🇹🇭 泰国
       - 🇨🇳 台湾
       - 🇨🇳 台湾 2
@@ -244,8 +244,8 @@ proxy-groups:
       - 🇬🇧 英国 4
       - 🇸🇬 新加坡
       - 🇸🇬 新加坡 2
-      - 🇭🇰 香港微软云2(欢迎关注Youtube破解资源君)
-      - 🇭🇰 香港微软云1(欢迎关注Youtube破解资源君)
+      - 🇭🇰 香港微软云2
+      - 🇭🇰 香港微软云1
       - 🇹🇭 泰国
       - 🇨🇳 台湾
       - 🇨🇳 台湾 2
@@ -281,8 +281,8 @@ proxy-groups:
       - 🇬🇧 英国 4
       - 🇸🇬 新加坡
       - 🇸🇬 新加坡 2
-      - 🇭🇰 香港微软云2(欢迎关注Youtube破解资源君)
-      - 🇭🇰 香港微软云1(欢迎关注Youtube破解资源君)
+      - 🇭🇰 香港微软云2
+      - 🇭🇰 香港微软云1
       - 🇹🇭 泰国
       - 🇨🇳 台湾
       - 🇨🇳 台湾 2
@@ -334,8 +334,8 @@ proxy-groups:
       - 🇬🇧 英国 4
       - 🇸🇬 新加坡
       - 🇸🇬 新加坡 2
-      - 🇭🇰 香港微软云2(欢迎关注Youtube破解资源君)
-      - 🇭🇰 香港微软云1(欢迎关注Youtube破解资源君)
+      - 🇭🇰 香港微软云2
+      - 🇭🇰 香港微软云1
       - 🇹🇭 泰国
       - 🇨🇳 台湾
       - 🇨🇳 台湾 2
