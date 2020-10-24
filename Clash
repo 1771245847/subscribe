@@ -5,26 +5,26 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 🇭🇰 香港 1, server: 183.232.136.231, port: 100, type: ss, cipher: aes-128-gcm, password: uuB6RE2}
-  - {name: 🇭🇰 香港 2, server: 183.232.136.231, port: 101, type: ss, cipher: aes-128-gcm, password: y43kmb}
-  - {name: 🇭🇰 香港 3, server: 52.175.16.108, port: 61040, type: vmess, uuid: e3b51fd0-f3f5-4c37-a7bd-c8d7d6069ff4, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /dwn, ws-headers: {Host: 52.175.16.108}}
-  - {name: 🇭🇰 香港 4, server: hktd.myssrsky.com, port: 31112, type: vmess, uuid: 34489cf9-7556-346c-b815-6aea4fdd3a2c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /reader, ws-headers: {Host: hktd.myssrsky.com}}
-  - {name: 🇫🇮 芬兰, server: 196.244.191.163, port: 35938, type: ss, cipher: aes-256-gcm, password: FeQQ8muhWnKXHeCQ3D8Zjyeq}
-  - {name: 🇬🇧 英国, server: 45.12.206.156, port: 9032, type: ss, cipher: aes-256-cfb, password: UWZQeLRWnkqgkseq}
-  - {name: 🇺🇲 美国, server: 195.123.241.117, port: 32263, type: vmess, uuid: 2950e434-09db-11eb-af84-52ac006718a2, alterId: 1, cipher: auto, tls: false}
-  - {name: 🇸🇬 新加坡, server: 195.123.237.140, port: 19594, type: vmess, uuid: 9b88bbbf-abdb-464c-8d3d-706baecd7ee3, alterId: 1, cipher: auto, tls: false}
-  - {name: 🇺🇲 美国 2, server: 45.66.156.199, port: 24073, type: vmess, uuid: 818bb0b8-0835-11eb-b020-00163c06ad53, alterId: 1, cipher: auto, tls: false}
-  - {name: 🇰🇷 韩国, server: eslenglish.ml, port: 443, type: vmess, uuid: 6ea01cd2-092f-11eb-8bc2-560003010dc6, alterId: 46, cipher: auto, tls: true, network: ws, ws-path: /dxqoeuim/, ws-headers: {Host: eslenglish.ml}}
-  - {name: 🇰🇷 韩国 2, server: eslenglish.cf, port: 443, type: vmess, uuid: b24f4cee-0931-11eb-b292-560003010fe3, alterId: 46, cipher: auto, tls: true, network: ws, ws-path: /RFXj3srv/, ws-headers: {Host: eslenglish.cf}}
-  - {name: 🇰🇷 韩国 3, server: bigsur.cf, port: 443, type: vmess, uuid: c78b6980-0936-11eb-b98e-560003011491, alterId: 46, cipher: auto, tls: true, network: ws, ws-path: /qn7mvgQX/, ws-headers: {Host: bigsur.cf}}
-  - {name: 🇺🇲 美国 3, server: bigsur.ml, port: 443, type: vmess, uuid: 38ba7096-0933-11eb-aebf-56000301110c, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /RBTKVHEe/, ws-headers: {Host: bigsur.ml}}
-  - {name: 🇰🇷 韩国 4, server: littlesur.tk, port: 443, type: vmess, uuid: e5aac40a-093c-11eb-9c89-5600030117a1, alterId: 46, cipher: auto, tls: true, network: ws, ws-path: /5tKFDIRS/, ws-headers: {Host: littlesur.tk}}
-  - {name: 🇰🇷 韩国 5, server: geniusbar.tk, port: 443, type: vmess, uuid: 8ac4ef12-06e3-11eb-a62b-560002ffd2ef, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /eR19Stbi/, ws-headers: {Host: geniusbar.tk}}
-  - {name: 🇰🇷 韩国 6, server: ccpisdevil.tk, port: 443, type: vmess, uuid: bf2953d8-094a-11eb-8920-560003011fa8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /Q0fbxon4/, ws-headers: {Host: ccpisdevil.tk}}
-  - {name: 🇰🇷 韩国 7, server: cnhumanright.ml, port: 443, type: vmess, uuid: bfa10a2c-09fe-11eb-b42e-5600030155b5, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /vtf6gbTI/, ws-headers: {Host: cnhumanright.ml}}
-  - {name: 🇺🇲 美国 4, server: freedomweneed.ml, port: 443, type: vmess, uuid: a7e475dc-0944-11eb-aede-560003011a85, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /2Q5RzDL8/, ws-headers: {Host: freedomweneed.ml}}
-  - {name: 🇯🇵 日本, server: milkgogo.ga, port: 443, type: vmess, uuid: c2890b42-094d-11eb-be6a-56000301214e, alterId: 46, cipher: auto, tls: true, network: ws, ws-path: /vo4RsuWU/, ws-headers: {Host: milkgogo.ga}}
-  - {name: 🇺🇲 美国 5, server: littlesur.cf, port: 443, type: vmess, uuid: ca4f2158-093a-11eb-9e3c-5600030116ca, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /Q0MxnXGl/, ws-headers: {Host: littlesur.cf}}
+  - {name: 🇭🇰 香港 1, server: pczvmt55.qrtb8gkpjv.buzz, port: 80, type: vmess, uuid: 8b784f8f-5c33-5a23-4c6b-ad3a8c859727, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /hmi5n2ka5mqo9vkw, ws-headers: {Host: lcyjtrhwrkot7b1u.traveludream.com}}
+  - {name: 🇭🇰 香港 2, server: ec4r43ii.qrtb8gkpjv.buzz, port: 80, type: vmess, uuid: 8b784f8f-5c33-5a23-4c6b-ad3a8c859727, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /hmi5n2ka5mqo9vkq, ws-headers: {Host: t2.feimengboxing.com}}
+  - {name: 🇭🇰 香港 3, server: ec4r43ii.qrtb8gkpjv.buzz, port: 80, type: vmess, uuid: 8b784f8f-5c33-5a23-4c6b-ad3a8c859727, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /hmi5n2ka5mqo9vky, ws-headers: {Host: t2.feimengboxing.com}}
+  - {name: 🇭🇰 香港 4, server: gdsw.lanfanyun.top, port: 80, type: vmess, uuid: 77c0284e-8f91-4344-8560-14bec511d922, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /lanfan, ws-headers: {Host: udhk03.zhangwu.shop}}
+  - {name: 🇭🇰 香港 5, server: 183.232.136.231, port: 100, type: ss, cipher: aes-128-gcm, password: uuB6RE2}
+  - {name: 🇭🇰 香港 6, server: pczvmt55.qrtb8gkpjv.buzz, port: 80, type: vmess, uuid: 8b784f8f-5c33-5a23-4c6b-ad3a8c859727, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /hmi5n2ka5mqo9vkq, ws-headers: {Host: r0b68s3754emae88.traveludream.com}}
+  - {name: 🇭🇰 香港 7, server: gxdx.lanfanyun.top, port: 80, type: vmess, uuid: 77c0284e-8f91-4344-8560-14bec511d922, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /lanfan, ws-headers: {Host: agajp03.zhangwu.shop}}
+  - {name: 🇭🇰 香港 8, server: gdgz.starlink.cx, port: 1005, type: vmess, uuid: 845cf1f1-5cda-4281-aa8f-ee2dbbfaf8ce, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: gdgz.starlink.cx}}
+  - {name: 🇯🇵 日本 1, server: jp-6.azure.vip5.v2ray.backend.ikuuu.pro, port: 666, type: vmess, uuid: 0303ab78-20be-3639-9cb4-bb01635b5546, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: jp-6.azure.vip5.v2ray.backend.ikuuu.pro}}
+  - {name: 🇺🇲 美国 1, server: 13.248.144.184, port: 39728, type: vmess, uuid: e8cb7c3f-4b56-4aa5-b965-6242965213d8, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /dwn, ws-headers: {Host: http://wap.hb.189.cn}}
+  - {name: 🇭🇰 香港 9, server: jsdx.lanfanyun.top, port: 80, type: vmess, uuid: 77c0284e-8f91-4344-8560-14bec511d922, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /lanfan, ws-headers: {Host: agajp03.zhangwu.shop}}
+  - {name: 🇸🇬 新加坡, server: 84.247.49.21, port: 34762, type: ss, cipher: aes-256-gcm, password: yxGY7A5MczQYg6UqSFx9u78V}
+  - {name: 🇭🇰 香港 10, server: us1.lanfanyun.top, port: 8888, type: vmess, uuid: 77c0284e-8f91-4344-8560-14bec511d922, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /lanfan, ws-headers: {Host: us1.lanfanyun.top}}
+  - {name: 🇯🇵 日本 2, server: 45.87.213.23, port: 34762, type: ss, cipher: aes-256-gcm, password: yxGY7A5MczQYg6UqSFx9u78V}
+  - {name: 🇳🇱 荷兰 1, server: 154.84.1.226, port: 51658, type: vmess, uuid: 784d3c84-e5d5-443b-888f-519553fb9ea9, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇭🇰 香港 11, server: zjdx.lanfanyun.top, port: 80, type: vmess, uuid: 77c0284e-8f91-4344-8560-14bec511d922, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /lanfan, ws-headers: {Host: agajp03.zhangwu.shop}}
+  - {name: 🇯🇵 日本 3, server: 45.87.213.21, port: 34762, type: ss, cipher: aes-256-gcm, password: yxGY7A5MczQYg6UqSFx9u78V}
+  - {name: 🇨🇳 台湾 1, server: 2.58.242.43, port: 38033, type: ss, cipher: aes-256-gcm, password: xpQwyV4W5FdA6NMANJJx73US}
+  - {name: 🇨🇦 加拿大, server: v2-05.ssrsub.one, port: 45688, type: vmess, uuid: 55bb447f-13eb-b495-c766-ebd9c9dae7cb, alterId: 1, cipher: auto, tls: false}
+  - {name: 🇺🇲 美国 2, server: v2-06.ssrsub.one, port: 45688, type: vmess, uuid: 55bb447f-13eb-b495-c766-ebd9c9dae7cb, alterId: 1, cipher: auto, tls: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -35,22 +35,22 @@ proxy-groups:
       - 🇭🇰 香港 2
       - 🇭🇰 香港 3
       - 🇭🇰 香港 4
-      - 🇫🇮 芬兰
-      - 🇬🇧 英国
-      - 🇺🇲 美国
+      - 🇭🇰 香港 5
+      - 🇭🇰 香港 6
+      - 🇭🇰 香港 7
+      - 🇭🇰 香港 8
+      - 🇯🇵 日本 1
+      - 🇺🇲 美国 1
+      - 🇭🇰 香港 9
       - 🇸🇬 新加坡
+      - 🇭🇰 香港 10
+      - 🇯🇵 日本 2
+      - 🇳🇱 荷兰 1
+      - 🇭🇰 香港 11
+      - 🇯🇵 日本 3
+      - 🇨🇳 台湾 1
+      - 🇨🇦 加拿大
       - 🇺🇲 美国 2
-      - 🇰🇷 韩国
-      - 🇰🇷 韩国 2
-      - 🇰🇷 韩国 3
-      - 🇺🇲 美国 3
-      - 🇰🇷 韩国 4
-      - 🇰🇷 韩国 5
-      - 🇰🇷 韩国 6
-      - 🇰🇷 韩国 7
-      - 🇺🇲 美国 4
-      - 🇯🇵 日本
-      - 🇺🇲 美国 5
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -60,22 +60,22 @@ proxy-groups:
       - 🇭🇰 香港 2
       - 🇭🇰 香港 3
       - 🇭🇰 香港 4
-      - 🇫🇮 芬兰
-      - 🇬🇧 英国
-      - 🇺🇲 美国
+      - 🇭🇰 香港 5
+      - 🇭🇰 香港 6
+      - 🇭🇰 香港 7
+      - 🇭🇰 香港 8
+      - 🇯🇵 日本 1
+      - 🇺🇲 美国 1
+      - 🇭🇰 香港 9
       - 🇸🇬 新加坡
+      - 🇭🇰 香港 10
+      - 🇯🇵 日本 2
+      - 🇳🇱 荷兰 1
+      - 🇭🇰 香港 11
+      - 🇯🇵 日本 3
+      - 🇨🇳 台湾 1
+      - 🇨🇦 加拿大
       - 🇺🇲 美国 2
-      - 🇰🇷 韩国
-      - 🇰🇷 韩国 2
-      - 🇰🇷 韩国 3
-      - 🇺🇲 美国 3
-      - 🇰🇷 韩国 4
-      - 🇰🇷 韩国 5
-      - 🇰🇷 韩国 6
-      - 🇰🇷 韩国 7
-      - 🇺🇲 美国 4
-      - 🇯🇵 日本
-      - 🇺🇲 美国 5
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -86,22 +86,22 @@ proxy-groups:
       - 🇭🇰 香港 2
       - 🇭🇰 香港 3
       - 🇭🇰 香港 4
-      - 🇫🇮 芬兰
-      - 🇬🇧 英国
-      - 🇺🇲 美国
+      - 🇭🇰 香港 5
+      - 🇭🇰 香港 6
+      - 🇭🇰 香港 7
+      - 🇭🇰 香港 8
+      - 🇯🇵 日本 1
+      - 🇺🇲 美国 1
+      - 🇭🇰 香港 9
       - 🇸🇬 新加坡
+      - 🇭🇰 香港 10
+      - 🇯🇵 日本 2
+      - 🇳🇱 荷兰 1
+      - 🇭🇰 香港 11
+      - 🇯🇵 日本 3
+      - 🇨🇳 台湾 1
+      - 🇨🇦 加拿大
       - 🇺🇲 美国 2
-      - 🇰🇷 韩国
-      - 🇰🇷 韩国 2
-      - 🇰🇷 韩国 3
-      - 🇺🇲 美国 3
-      - 🇰🇷 韩国 4
-      - 🇰🇷 韩国 5
-      - 🇰🇷 韩国 6
-      - 🇰🇷 韩国 7
-      - 🇺🇲 美国 4
-      - 🇯🇵 日本
-      - 🇺🇲 美国 5
   - name: 📲 电报信息
     type: select
     proxies:
@@ -111,22 +111,22 @@ proxy-groups:
       - 🇭🇰 香港 2
       - 🇭🇰 香港 3
       - 🇭🇰 香港 4
-      - 🇫🇮 芬兰
-      - 🇬🇧 英国
-      - 🇺🇲 美国
+      - 🇭🇰 香港 5
+      - 🇭🇰 香港 6
+      - 🇭🇰 香港 7
+      - 🇭🇰 香港 8
+      - 🇯🇵 日本 1
+      - 🇺🇲 美国 1
+      - 🇭🇰 香港 9
       - 🇸🇬 新加坡
+      - 🇭🇰 香港 10
+      - 🇯🇵 日本 2
+      - 🇳🇱 荷兰 1
+      - 🇭🇰 香港 11
+      - 🇯🇵 日本 3
+      - 🇨🇳 台湾 1
+      - 🇨🇦 加拿大
       - 🇺🇲 美国 2
-      - 🇰🇷 韩国
-      - 🇰🇷 韩国 2
-      - 🇰🇷 韩国 3
-      - 🇺🇲 美国 3
-      - 🇰🇷 韩国 4
-      - 🇰🇷 韩国 5
-      - 🇰🇷 韩国 6
-      - 🇰🇷 韩国 7
-      - 🇺🇲 美国 4
-      - 🇯🇵 日本
-      - 🇺🇲 美国 5
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -136,22 +136,22 @@ proxy-groups:
       - 🇭🇰 香港 2
       - 🇭🇰 香港 3
       - 🇭🇰 香港 4
-      - 🇫🇮 芬兰
-      - 🇬🇧 英国
-      - 🇺🇲 美国
+      - 🇭🇰 香港 5
+      - 🇭🇰 香港 6
+      - 🇭🇰 香港 7
+      - 🇭🇰 香港 8
+      - 🇯🇵 日本 1
+      - 🇺🇲 美国 1
+      - 🇭🇰 香港 9
       - 🇸🇬 新加坡
+      - 🇭🇰 香港 10
+      - 🇯🇵 日本 2
+      - 🇳🇱 荷兰 1
+      - 🇭🇰 香港 11
+      - 🇯🇵 日本 3
+      - 🇨🇳 台湾 1
+      - 🇨🇦 加拿大
       - 🇺🇲 美国 2
-      - 🇰🇷 韩国
-      - 🇰🇷 韩国 2
-      - 🇰🇷 韩国 3
-      - 🇺🇲 美国 3
-      - 🇰🇷 韩国 4
-      - 🇰🇷 韩国 5
-      - 🇰🇷 韩国 6
-      - 🇰🇷 韩国 7
-      - 🇺🇲 美国 4
-      - 🇯🇵 日本
-      - 🇺🇲 美国 5
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -161,22 +161,22 @@ proxy-groups:
       - 🇭🇰 香港 2
       - 🇭🇰 香港 3
       - 🇭🇰 香港 4
-      - 🇫🇮 芬兰
-      - 🇬🇧 英国
-      - 🇺🇲 美国
+      - 🇭🇰 香港 5
+      - 🇭🇰 香港 6
+      - 🇭🇰 香港 7
+      - 🇭🇰 香港 8
+      - 🇯🇵 日本 1
+      - 🇺🇲 美国 1
+      - 🇭🇰 香港 9
       - 🇸🇬 新加坡
+      - 🇭🇰 香港 10
+      - 🇯🇵 日本 2
+      - 🇳🇱 荷兰 1
+      - 🇭🇰 香港 11
+      - 🇯🇵 日本 3
+      - 🇨🇳 台湾 1
+      - 🇨🇦 加拿大
       - 🇺🇲 美国 2
-      - 🇰🇷 韩国
-      - 🇰🇷 韩国 2
-      - 🇰🇷 韩国 3
-      - 🇺🇲 美国 3
-      - 🇰🇷 韩国 4
-      - 🇰🇷 韩国 5
-      - 🇰🇷 韩国 6
-      - 🇰🇷 韩国 7
-      - 🇺🇲 美国 4
-      - 🇯🇵 日本
-      - 🇺🇲 美国 5
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -187,22 +187,22 @@ proxy-groups:
       - 🇭🇰 香港 2
       - 🇭🇰 香港 3
       - 🇭🇰 香港 4
-      - 🇫🇮 芬兰
-      - 🇬🇧 英国
-      - 🇺🇲 美国
+      - 🇭🇰 香港 5
+      - 🇭🇰 香港 6
+      - 🇭🇰 香港 7
+      - 🇭🇰 香港 8
+      - 🇯🇵 日本 1
+      - 🇺🇲 美国 1
+      - 🇭🇰 香港 9
       - 🇸🇬 新加坡
+      - 🇭🇰 香港 10
+      - 🇯🇵 日本 2
+      - 🇳🇱 荷兰 1
+      - 🇭🇰 香港 11
+      - 🇯🇵 日本 3
+      - 🇨🇳 台湾 1
+      - 🇨🇦 加拿大
       - 🇺🇲 美国 2
-      - 🇰🇷 韩国
-      - 🇰🇷 韩国 2
-      - 🇰🇷 韩国 3
-      - 🇺🇲 美国 3
-      - 🇰🇷 韩国 4
-      - 🇰🇷 韩国 5
-      - 🇰🇷 韩国 6
-      - 🇰🇷 韩国 7
-      - 🇺🇲 美国 4
-      - 🇯🇵 日本
-      - 🇺🇲 美国 5
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -229,22 +229,22 @@ proxy-groups:
       - 🇭🇰 香港 2
       - 🇭🇰 香港 3
       - 🇭🇰 香港 4
-      - 🇫🇮 芬兰
-      - 🇬🇧 英国
-      - 🇺🇲 美国
+      - 🇭🇰 香港 5
+      - 🇭🇰 香港 6
+      - 🇭🇰 香港 7
+      - 🇭🇰 香港 8
+      - 🇯🇵 日本 1
+      - 🇺🇲 美国 1
+      - 🇭🇰 香港 9
       - 🇸🇬 新加坡
+      - 🇭🇰 香港 10
+      - 🇯🇵 日本 2
+      - 🇳🇱 荷兰 1
+      - 🇭🇰 香港 11
+      - 🇯🇵 日本 3
+      - 🇨🇳 台湾 1
+      - 🇨🇦 加拿大
       - 🇺🇲 美国 2
-      - 🇰🇷 韩国
-      - 🇰🇷 韩国 2
-      - 🇰🇷 韩国 3
-      - 🇺🇲 美国 3
-      - 🇰🇷 韩国 4
-      - 🇰🇷 韩国 5
-      - 🇰🇷 韩国 6
-      - 🇰🇷 韩国 7
-      - 🇺🇲 美国 4
-      - 🇯🇵 日本
-      - 🇺🇲 美国 5
 rules:
  - DOMAIN-SUFFIX,acl4ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
@@ -281,6 +281,7 @@ rules:
  - DOMAIN,analytics.strava.com,🎯 全球直连
  - DOMAIN,msg.umeng.com,🎯 全球直连
  - DOMAIN,msg.umengcloud.com,🎯 全球直连
+ - DOMAIN,tracking.miui.com,🎯 全球直连
  - DOMAIN,app.adjust.com,🎯 全球直连
  - DOMAIN,bdtj.tagtic.cn,🎯 全球直连
  - DOMAIN-KEYWORD,admarvel,🛑 全球拦截
@@ -1431,7 +1432,6 @@ rules:
  - DOMAIN-SUFFIX,security.browser.miui.com,🍃 应用净化
  - DOMAIN-SUFFIX,shenghuo.xiaomi.com,🍃 应用净化
  - DOMAIN-SUFFIX,stat.pandora.xiaomi.com,🍃 应用净化
- - DOMAIN-SUFFIX,tracking.miui.com,🍃 应用净化
  - DOMAIN-SUFFIX,union.mi.com,🍃 应用净化
  - DOMAIN-SUFFIX,wtradv.market.xiaomi.com,🍃 应用净化
  - DOMAIN-SUFFIX,xmpush.xiaomi.com,🍃 应用净化
