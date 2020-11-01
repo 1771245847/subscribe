@@ -5,204 +5,204 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 🇷🇺 俄罗斯, server: 176.32.35.11, port: 51476, type: vmess, uuid: a90e7e19-6b41-42a1-b4bf-e65f241f2f57, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇷🇺 俄罗斯 2, server: 46.17.43.160, port: 30889, type: vmess, uuid: d2ed7cc9-5975-4306-becd-988cafd905be, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇷🇺 俄罗斯 3, server: 85.117.234.160, port: 32742, type: vmess, uuid: 3dc340bf-ba6e-48af-9e26-a916d2a6d54e, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇬🇧 英国, server: kailun.tk, port: 443, type: trojan, password: 25ba1e73, sni: kailun.tk}
-  - {name: 🇬🇧 英国 2, server: 185.44.76.188, port: 34762, type: ss, cipher: aes-256-gcm, password: yxGY7A5MczQYg6UqSFx9u78V}
-  - {name: 🇯🇵 日本, server: a.newword.site, port: 443, type: trojan, password: eZoYEwAI, sni: a.newword.site}
-  - {name: 🇯🇵 日本 2, server: vless.kailun.tk, port: 443, type: trojan, password: allenfreetrojan, sni: vless.kailun.tk}
-  - {name: 🇸🇬 新加坡, server: 13.212.33.148, port: 53201, type: vmess, uuid: 0b2aca76-44a5-374e-8349-192279e827f1, alterId: 2, cipher: auto, tls: false}
-  - {name: 🇰🇷 韩国, server: bigsur.tk, port: 443, type: trojan, password: 1d2664a6-5b59-4cb5-856b-0aa89bf76f95, sni: bigsur.tk}
-  - {name: 🇨🇳 台湾, server: 118.166.41.204, port: 53235, type: vmess, uuid: 0b2aca76-44a5-374e-8349-192279e827f1, alterId: 2, cipher: auto, tls: false}
-  - {name: 🇨🇳 台湾 2, server: 36.230.66.201, port: 53237, type: vmess, uuid: 0b2aca76-44a5-374e-8349-192279e827f1, alterId: 2, cipher: auto, tls: false}
-  - {name: 🇭🇰 香港, server: 13.248.179.113, port: 40204, type: vmess, uuid: a8497551-3407-3c9e-a126-7834101b5f6a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: 13.248.179.113}}
-  - {name: 🇭🇰 香港 2, server: 99.83.236.128, port: 40202, type: vmess, uuid: a8497551-3407-3c9e-a126-7834101b5f6a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: 99.83.236.128}}
-  - {name: 🇭🇰 香港 3, server: 75.2.18.94, port: 40201, type: vmess, uuid: a8497551-3407-3c9e-a126-7834101b5f6a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: 75.2.18.94}}
-  - {name: 欧洲, server: 185.195.79.3, port: 34762, type: ss, cipher: aes-256-gcm, password: yxGY7A5MczQYg6UqSFx9u78V}
-  - {name: 🇭🇰 香港 4, server: 76.223.57.161, port: 40203, type: vmess, uuid: a8497551-3407-3c9e-a126-7834101b5f6a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /honda, ws-headers: {Host: 76.223.57.161}}
-  - {name: 🇭🇰 香港 1, server: 76.223.57.161, port: 40203, type: vmess, uuid: a8497551-3407-3c9e-a126-7834101b5f6a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /honda, ws-headers: {Host: 76.223.57.161}}
-  - {name: 🇨🇳 台湾 3, server: 36.231.18.40, port: 53233, type: vmess, uuid: 0b2aca76-44a5-374e-8349-192279e827f1, alterId: 2, cipher: auto, tls: false}
-  - {name: 欧洲 2, server: 185.195.79.3, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇭🇰 香港 5, server: 75.2.18.94, port: 40201, type: vmess, uuid: a8497551-3407-3c9e-a126-7834101b5f6a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: 75.2.18.94}}
+  - {name: 🇭🇰 香港, server: 18.162.147.210, port: 40086, type: vmess, uuid: 8f47a763-f2d4-44cd-f67f-2f6beda5c902, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /dwn, ws-headers: {Host: 18.162.147.210}}
+  - {name: 🇭🇰 香港 2, server: l1-aws-hk-19.mugun.xyz, port: 80, type: vmess, uuid: d388ac06-a595-3802-a8fa-5f22aa27d4ad, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: l1-aws-hk-19.mugun.xyz}}
+  - {name: 🇭🇰 香港 3, server: l1-aws-hk-20.mugun.xyz, port: 80, type: vmess, uuid: d388ac06-a595-3802-a8fa-5f22aa27d4ad, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: l1-aws-hk-20.mugun.xyz}}
+  - {name: 🇸🇬 新加坡, server: shanghai-cn2-nat.mugun.xyz, port: 25069, type: vmess, uuid: d388ac06-a595-3802-a8fa-5f22aa27d4ad, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: shanghai-cn2-nat.mugun.xyz}}
+  - {name: 🇸🇬 新加坡 2, server: 120.232.194.9, port: 106, type: ss, cipher: aes-128-gcm, password: xmr03mg}
+  - {name: 🇺🇲 美国, server: 157.52.168.12, port: 21568, type: vmess, uuid: 5314aa06-2a03-4e5c-93bb-6a6ae585c7b8, alterId: 59, cipher: auto, tls: false}
+  - {name: 🇺🇲 美国 2, server: v2-01.ssrsub.one, port: 443, type: vmess, uuid: d0cfd824-8cac-180e-6f78-d4ac2cda6a25, alterId: 32, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: v2-01.ssrsub.one}}
+  - {name: 🇭🇰 香港 4, server: s259.snode.xyz, port: 443, type: vmess, uuid: fe7512ed-1d53-3f6f-9ad0-ea4e391014cc, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /panel, ws-headers: {Host: s259.snode.xyz}}
+  - {name: 🇩🇪 德国, server: 172.67.199.187, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: llajv.rebldp.tech}}
+  - {name: 🇩🇪 德国 2, server: llajv.rebldp.tech, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: llajv.rebldp.tech}}
+  - {name: 🇭🇰 香港 5, server: 120.232.194.9, port: 104, type: ss, cipher: aes-128-gcm, password: mC7qrHw3}
+  - {name: 🇯🇵 日本, server: shanghai-cn2-nat.mugun.xyz, port: 25060, type: vmess, uuid: d388ac06-a595-3802-a8fa-5f22aa27d4ad, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: shanghai-cn2-nat.mugun.xyz}}
+  - {name: 🇸🇬 新加坡 3, server: shanghai-cn2-nat.mugun.xyz, port: 25073, type: vmess, uuid: d388ac06-a595-3802-a8fa-5f22aa27d4ad, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: shanghai-cn2-nat.mugun.xyz}}
+  - {name: 🇯🇵 日本 2, server: 45.77.134.155, port: 45751, type: vmess, uuid: 32fcddd8-35ce-4608-9ba5-2e68c16eadca, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇸🇬 新加坡 4, server: shanghai-cn2-nat.mugun.xyz, port: 25068, type: vmess, uuid: d388ac06-a595-3802-a8fa-5f22aa27d4ad, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: shanghai-cn2-nat.mugun.xyz}}
+  - {name: 🇯🇵 日本 3, server: shanghai-cn2-nat.mugun.xyz, port: 25062, type: vmess, uuid: d388ac06-a595-3802-a8fa-5f22aa27d4ad, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: shanghai-cn2-nat.mugun.xyz}}
+  - {name: 🇫🇷 法国, server: 185.108.106.142, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇨🇳 台湾, server: global-transit-03-tw.baipiao.de, port: 3101, type: vmess, uuid: cdf5f6df-2c73-3bb8-9a9a-053161876fdd, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: global-transit-03-tw.baipiao.de}}
+  - {name: 🇯🇵 日本 4, server: 45.77.181.167, port: 53966, type: vmess, uuid: 4893f533-02ae-4c6b-9f98-07cf63083c96, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇯🇵 日本 5, server: shanghai-cn2-nat.mugun.xyz, port: 25063, type: vmess, uuid: d388ac06-a595-3802-a8fa-5f22aa27d4ad, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: shanghai-cn2-nat.mugun.xyz}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇷🇺 俄罗斯
-      - 🇷🇺 俄罗斯 2
-      - 🇷🇺 俄罗斯 3
-      - 🇬🇧 英国
-      - 🇬🇧 英国 2
-      - 🇯🇵 日本
-      - 🇯🇵 日本 2
-      - 🇸🇬 新加坡
-      - 🇰🇷 韩国
-      - 🇨🇳 台湾
-      - 🇨🇳 台湾 2
       - 🇭🇰 香港
       - 🇭🇰 香港 2
       - 🇭🇰 香港 3
-      - 欧洲
+      - 🇸🇬 新加坡
+      - 🇸🇬 新加坡 2
+      - 🇺🇲 美国
+      - 🇺🇲 美国 2
       - 🇭🇰 香港 4
-      - 🇭🇰 香港 1
-      - 🇨🇳 台湾 3
-      - 欧洲 2
+      - 🇩🇪 德国
+      - 🇩🇪 德国 2
       - 🇭🇰 香港 5
+      - 🇯🇵 日本
+      - 🇸🇬 新加坡 3
+      - 🇯🇵 日本 2
+      - 🇸🇬 新加坡 4
+      - 🇯🇵 日本 3
+      - 🇫🇷 法国
+      - 🇨🇳 台湾
+      - 🇯🇵 日本 4
+      - 🇯🇵 日本 5
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - 🇷🇺 俄罗斯
-      - 🇷🇺 俄罗斯 2
-      - 🇷🇺 俄罗斯 3
-      - 🇬🇧 英国
-      - 🇬🇧 英国 2
-      - 🇯🇵 日本
-      - 🇯🇵 日本 2
-      - 🇸🇬 新加坡
-      - 🇰🇷 韩国
-      - 🇨🇳 台湾
-      - 🇨🇳 台湾 2
       - 🇭🇰 香港
       - 🇭🇰 香港 2
       - 🇭🇰 香港 3
-      - 欧洲
+      - 🇸🇬 新加坡
+      - 🇸🇬 新加坡 2
+      - 🇺🇲 美国
+      - 🇺🇲 美国 2
       - 🇭🇰 香港 4
-      - 🇭🇰 香港 1
-      - 🇨🇳 台湾 3
-      - 欧洲 2
+      - 🇩🇪 德国
+      - 🇩🇪 德国 2
       - 🇭🇰 香港 5
+      - 🇯🇵 日本
+      - 🇸🇬 新加坡 3
+      - 🇯🇵 日本 2
+      - 🇸🇬 新加坡 4
+      - 🇯🇵 日本 3
+      - 🇫🇷 法国
+      - 🇨🇳 台湾
+      - 🇯🇵 日本 4
+      - 🇯🇵 日本 5
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇷🇺 俄罗斯
-      - 🇷🇺 俄罗斯 2
-      - 🇷🇺 俄罗斯 3
-      - 🇬🇧 英国
-      - 🇬🇧 英国 2
-      - 🇯🇵 日本
-      - 🇯🇵 日本 2
-      - 🇸🇬 新加坡
-      - 🇰🇷 韩国
-      - 🇨🇳 台湾
-      - 🇨🇳 台湾 2
       - 🇭🇰 香港
       - 🇭🇰 香港 2
       - 🇭🇰 香港 3
-      - 欧洲
+      - 🇸🇬 新加坡
+      - 🇸🇬 新加坡 2
+      - 🇺🇲 美国
+      - 🇺🇲 美国 2
       - 🇭🇰 香港 4
-      - 🇭🇰 香港 1
-      - 🇨🇳 台湾 3
-      - 欧洲 2
+      - 🇩🇪 德国
+      - 🇩🇪 德国 2
       - 🇭🇰 香港 5
+      - 🇯🇵 日本
+      - 🇸🇬 新加坡 3
+      - 🇯🇵 日本 2
+      - 🇸🇬 新加坡 4
+      - 🇯🇵 日本 3
+      - 🇫🇷 法国
+      - 🇨🇳 台湾
+      - 🇯🇵 日本 4
+      - 🇯🇵 日本 5
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇷🇺 俄罗斯
-      - 🇷🇺 俄罗斯 2
-      - 🇷🇺 俄罗斯 3
-      - 🇬🇧 英国
-      - 🇬🇧 英国 2
-      - 🇯🇵 日本
-      - 🇯🇵 日本 2
-      - 🇸🇬 新加坡
-      - 🇰🇷 韩国
-      - 🇨🇳 台湾
-      - 🇨🇳 台湾 2
       - 🇭🇰 香港
       - 🇭🇰 香港 2
       - 🇭🇰 香港 3
-      - 欧洲
+      - 🇸🇬 新加坡
+      - 🇸🇬 新加坡 2
+      - 🇺🇲 美国
+      - 🇺🇲 美国 2
       - 🇭🇰 香港 4
-      - 🇭🇰 香港 1
-      - 🇨🇳 台湾 3
-      - 欧洲 2
+      - 🇩🇪 德国
+      - 🇩🇪 德国 2
       - 🇭🇰 香港 5
+      - 🇯🇵 日本
+      - 🇸🇬 新加坡 3
+      - 🇯🇵 日本 2
+      - 🇸🇬 新加坡 4
+      - 🇯🇵 日本 3
+      - 🇫🇷 法国
+      - 🇨🇳 台湾
+      - 🇯🇵 日本 4
+      - 🇯🇵 日本 5
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇷🇺 俄罗斯
-      - 🇷🇺 俄罗斯 2
-      - 🇷🇺 俄罗斯 3
-      - 🇬🇧 英国
-      - 🇬🇧 英国 2
-      - 🇯🇵 日本
-      - 🇯🇵 日本 2
-      - 🇸🇬 新加坡
-      - 🇰🇷 韩国
-      - 🇨🇳 台湾
-      - 🇨🇳 台湾 2
       - 🇭🇰 香港
       - 🇭🇰 香港 2
       - 🇭🇰 香港 3
-      - 欧洲
+      - 🇸🇬 新加坡
+      - 🇸🇬 新加坡 2
+      - 🇺🇲 美国
+      - 🇺🇲 美国 2
       - 🇭🇰 香港 4
-      - 🇭🇰 香港 1
-      - 🇨🇳 台湾 3
-      - 欧洲 2
+      - 🇩🇪 德国
+      - 🇩🇪 德国 2
       - 🇭🇰 香港 5
+      - 🇯🇵 日本
+      - 🇸🇬 新加坡 3
+      - 🇯🇵 日本 2
+      - 🇸🇬 新加坡 4
+      - 🇯🇵 日本 3
+      - 🇫🇷 法国
+      - 🇨🇳 台湾
+      - 🇯🇵 日本 4
+      - 🇯🇵 日本 5
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇷🇺 俄罗斯
-      - 🇷🇺 俄罗斯 2
-      - 🇷🇺 俄罗斯 3
-      - 🇬🇧 英国
-      - 🇬🇧 英国 2
-      - 🇯🇵 日本
-      - 🇯🇵 日本 2
-      - 🇸🇬 新加坡
-      - 🇰🇷 韩国
-      - 🇨🇳 台湾
-      - 🇨🇳 台湾 2
       - 🇭🇰 香港
       - 🇭🇰 香港 2
       - 🇭🇰 香港 3
-      - 欧洲
+      - 🇸🇬 新加坡
+      - 🇸🇬 新加坡 2
+      - 🇺🇲 美国
+      - 🇺🇲 美国 2
       - 🇭🇰 香港 4
-      - 🇭🇰 香港 1
-      - 🇨🇳 台湾 3
-      - 欧洲 2
+      - 🇩🇪 德国
+      - 🇩🇪 德国 2
       - 🇭🇰 香港 5
+      - 🇯🇵 日本
+      - 🇸🇬 新加坡 3
+      - 🇯🇵 日本 2
+      - 🇸🇬 新加坡 4
+      - 🇯🇵 日本 3
+      - 🇫🇷 法国
+      - 🇨🇳 台湾
+      - 🇯🇵 日本 4
+      - 🇯🇵 日本 5
   - name: 📢 谷歌FCM
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇷🇺 俄罗斯
-      - 🇷🇺 俄罗斯 2
-      - 🇷🇺 俄罗斯 3
-      - 🇬🇧 英国
-      - 🇬🇧 英国 2
-      - 🇯🇵 日本
-      - 🇯🇵 日本 2
-      - 🇸🇬 新加坡
-      - 🇰🇷 韩国
-      - 🇨🇳 台湾
-      - 🇨🇳 台湾 2
       - 🇭🇰 香港
       - 🇭🇰 香港 2
       - 🇭🇰 香港 3
-      - 欧洲
+      - 🇸🇬 新加坡
+      - 🇸🇬 新加坡 2
+      - 🇺🇲 美国
+      - 🇺🇲 美国 2
       - 🇭🇰 香港 4
-      - 🇭🇰 香港 1
-      - 🇨🇳 台湾 3
-      - 欧洲 2
+      - 🇩🇪 德国
+      - 🇩🇪 德国 2
       - 🇭🇰 香港 5
+      - 🇯🇵 日本
+      - 🇸🇬 新加坡 3
+      - 🇯🇵 日本 2
+      - 🇸🇬 新加坡 4
+      - 🇯🇵 日本 3
+      - 🇫🇷 法国
+      - 🇨🇳 台湾
+      - 🇯🇵 日本 4
+      - 🇯🇵 日本 5
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -225,26 +225,26 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇷🇺 俄罗斯
-      - 🇷🇺 俄罗斯 2
-      - 🇷🇺 俄罗斯 3
-      - 🇬🇧 英国
-      - 🇬🇧 英国 2
-      - 🇯🇵 日本
-      - 🇯🇵 日本 2
-      - 🇸🇬 新加坡
-      - 🇰🇷 韩国
-      - 🇨🇳 台湾
-      - 🇨🇳 台湾 2
       - 🇭🇰 香港
       - 🇭🇰 香港 2
       - 🇭🇰 香港 3
-      - 欧洲
+      - 🇸🇬 新加坡
+      - 🇸🇬 新加坡 2
+      - 🇺🇲 美国
+      - 🇺🇲 美国 2
       - 🇭🇰 香港 4
-      - 🇭🇰 香港 1
-      - 🇨🇳 台湾 3
-      - 欧洲 2
+      - 🇩🇪 德国
+      - 🇩🇪 德国 2
       - 🇭🇰 香港 5
+      - 🇯🇵 日本
+      - 🇸🇬 新加坡 3
+      - 🇯🇵 日本 2
+      - 🇸🇬 新加坡 4
+      - 🇯🇵 日本 3
+      - 🇫🇷 法国
+      - 🇨🇳 台湾
+      - 🇯🇵 日本 4
+      - 🇯🇵 日本 5
 rules:
  - DOMAIN-SUFFIX,acl4ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
