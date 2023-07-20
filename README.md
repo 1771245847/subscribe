@@ -12,7 +12,6 @@
 
 下载后解压到自己喜欢的文件夹，然后运行v2rayN.exe。如果 Windows 出现安全提示，点击「更多信息」然后再选择「仍要运行」即可
 
-
 1 双击运行
 
 双击打开v2rayN，可以看到如下程序主界面
@@ -45,8 +44,4 @@
 
 CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN/SSR客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray/SSR节点  
 
-### v2rayN(SS/SSR/trojan)节点订阅
-
-https://raw.githubusercontent.com/1771245847/subscribe/master/subscribe.txt  
-
-祝大家好运
+### 祝大家好运
